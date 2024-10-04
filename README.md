@@ -33,10 +33,15 @@ The **Quantum Error Correction Simulator** is a software tool designed to simula
 
 
 - **Visualization Options**
-  - **Lattice Before Error Correction:** Displays the initial state of the lattice.
+  - **Lattice Before / After Error Correction:** Displays state of the lattice before and after using a correction algorithm.
+    
+    ![image](https://github.com/user-attachments/assets/a94506f0-8e47-43d6-9f11-a7faf3dbef17)
+
   - **Measurement Results:** Shows the outcomes of quantum measurements.
-  - **Lattice After Error Correction:** Displays the state of the lattice post-correction.
   - **Qubit State Probabilities:** Visualizes the probabilities of qubit states.
+
+    ![image](https://github.com/user-attachments/assets/c77c76eb-0241-42af-a8c5-b9912ea9b0d9)
+
   - **Circuit Diagram:** Generates a diagram of the quantum circuit used.
 
 ## **Technical Specifications**
