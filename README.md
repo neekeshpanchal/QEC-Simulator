@@ -1,6 +1,6 @@
 # Quantum Error Correction Simulator
 
-The **Quantum Error Correction Simulator** is a software tool designed to simulate and visualize quantum error correction processes. It integrates various components to allow users to configure, run, and analyze quantum simulations effectively.
+The **Quantum Error Correction Simulator** is a software tool designed to simulate and visualize quantum error correction processes. It integrates various components to allow users to configure, run, and analyze quantum simulations effectively. A key feature here is quick quantum circuit diagram creation through LaTeX integration.
 ![image](https://github.com/user-attachments/assets/9ee62d52-ac5e-40d1-afea-328a0093ee68)
 
 ## **Functionality**
