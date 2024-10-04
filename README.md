@@ -30,7 +30,7 @@ The **Quantum Error Correction Simulator** is a software tool designed to simula
   - Measures stabilizers before and after error correction.
   - Runs the simulation and collects results.
 
-    ![3x3](https://github.com/user-attachments/assets/4d290597-dcdb-49f6-8bee-d74ef2995b6d)
+    ![image](https://github.com/user-attachments/assets/5d9a6bbb-0863-4db1-b06c-79d99cf9b23c)
 
 
 - **Visualization Options**
@@ -45,7 +45,8 @@ The **Quantum Error Correction Simulator** is a software tool designed to simula
 
   - **Circuit Diagram:** Generates a diagram of the quantum circuit used.
  
-    ![image](https://github.com/user-attachments/assets/aa437842-071c-483a-a96a-04614baf498e)
+    ![image](https://github.com/user-attachments/assets/329276d5-42f2-4ce3-b7b1-8493e5e475dc)
+
 
 
 ## **Technical Specifications**
