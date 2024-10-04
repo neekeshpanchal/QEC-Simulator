@@ -1,16 +1,22 @@
 # Quantum Error Correction Simulator
 
 The **Quantum Error Correction Simulator** is a software tool designed to simulate and visualize quantum error correction processes. It integrates various components to allow users to configure, run, and analyze quantum simulations effectively.
+![image](https://github.com/user-attachments/assets/9ee62d52-ac5e-40d1-afea-328a0093ee68)
 
 ## **Functionality**
 
 - **Parameter Configuration**
   - **Lattice Size (NxN):** User inputs the size of the quantum lattice.
   - **Error Rate:** User specifies the probability of errors occurring.
+![image](https://github.com/user-attachments/assets/dc56d827-3d09-4ca6-a7fd-2e053ba11080)
+
   - **Error Type:** Options include Bit-flip, Phase-flip, and Depolarizing errors.
+![image](https://github.com/user-attachments/assets/b16acf09-7e06-4ff8-aad5-019812258af2)
+
   - **Visualization Style:** Choices include Coolwarm, Viridis, and Plasma colormaps.
   - **Error Correction Algorithm:** Options are None, Shor Code, and Steane Code.
-  - **Detailed Qubit Information:** Option to display detailed qubit state probabilities.
+![image](https://github.com/user-attachments/assets/13d43dfc-b3b9-4f28-8d60-242d6d6ad465)
+
 
 - **Simulation Execution**
   - Constructs the quantum circuit based on input parameters.
@@ -19,6 +25,9 @@ The **Quantum Error Correction Simulator** is a software tool designed to simula
   - Applies selected error correction algorithms.
   - Measures stabilizers before and after error correction.
   - Runs the simulation and collects results.
+
+![3x3](https://github.com/user-attachments/assets/4d290597-dcdb-49f6-8bee-d74ef2995b6d)
+
 
 - **Visualization Options**
   - **Lattice Before Error Correction:** Displays the initial state of the lattice.
