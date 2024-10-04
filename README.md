@@ -43,6 +43,9 @@ The **Quantum Error Correction Simulator** is a software tool designed to simula
     ![image](https://github.com/user-attachments/assets/c77c76eb-0241-42af-a8c5-b9912ea9b0d9)
 
   - **Circuit Diagram:** Generates a diagram of the quantum circuit used.
+ 
+    ![image](https://github.com/user-attachments/assets/aa437842-071c-483a-a96a-04614baf498e)
+
 
 ## **Technical Specifications**
 
